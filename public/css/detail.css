@@ -1,0 +1,112 @@
+.xu_index .xu_detail {
+  margin-top: 92px; }
+  .xu_index .xu_detail .d_left {
+    margin-left: 100px;
+    float: left; }
+    .xu_index .xu_detail .d_left .l_img {
+      width: 560px;
+      height: 560px; }
+      .xu_index .xu_detail .d_left .l_img img {
+        width: 100%; }
+    .xu_index .xu_detail .d_left .s_img ul li {
+      float: left;
+      margin: 0 10px; }
+      .xu_index .xu_detail .d_left .s_img ul li a {
+        display: block;
+        width: 80px;
+        height: 80px; }
+        .xu_index .xu_detail .d_left .s_img ul li a img {
+          width: 100%; }
+  .xu_index .xu_detail .d_right {
+    float: right;
+    margin-right: 100px; }
+    .xu_index .xu_detail .d_right .information {
+      padding-bottom: 20px;
+      border-bottom: 1px dashed #999; }
+      .xu_index .xu_detail .d_right .information h1.p_name {
+        font-size: 28px;
+        color: #333; }
+      .xu_index .xu_detail .d_right .information p {
+        font-size: 14px;
+        color: #999;
+        margin-bottom: 10px; }
+      .xu_index .xu_detail .d_right .information h2.price {
+        color: #e02b41;
+        font-size: 36px;
+        height: 60px;
+        line-height: 60px;
+        background: #F4F6FA;
+        font-weight: normal; }
+      .xu_index .xu_detail .d_right .information ul li {
+        float: left;
+        margin-right: 40px;
+        font-size: 12px;
+        color: #999; }
+        .xu_index .xu_detail .d_right .information ul li:first-child {
+          letter-spacing: 20px; }
+    .xu_index .xu_detail .d_right .p_t {
+      margin-top: 20px;
+      width: 650px; }
+      .xu_index .xu_detail .d_right .p_t p {
+        float: left;
+        font-size: 12px;
+        color: #999;
+        width: 48px; }
+      .xu_index .xu_detail .d_right .p_t ul {
+        float: left;
+        width: 576px;
+        margin-bottom: 10px; }
+        .xu_index .xu_detail .d_right .p_t ul li {
+          float: left;
+          margin-bottom: 10px; }
+          .xu_index .xu_detail .d_right .p_t ul li a {
+            display: block;
+            width: 180px;
+            height: 40px;
+            margin-left: 10px;
+            border: 1px solid #999;
+            line-height: 40px;
+            color: #999;
+            text-align: center; }
+            .xu_index .xu_detail .d_right .p_t ul li a.active {
+              color: #333;
+              border: 1px solid #333; }
+    .xu_index .xu_detail .d_right .p_count ul li {
+      float: left; }
+      .xu_index .xu_detail .d_right .p_count ul li:first-child {
+        font-size: 12px;
+        color: #999;
+        letter-spacing: 17px;
+        height: 30px;
+        line-height: 30px; }
+      .xu_index .xu_detail .d_right .p_count ul li a {
+        display: block;
+        width: 32px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        border: 1px solid #ddd; }
+        .xu_index .xu_detail .d_right .p_count ul li a.disable {
+          color: #ddd; }
+      .xu_index .xu_detail .d_right .p_count ul li input {
+        height: 40px;
+        width: 20px;
+        padding: 0 20px;
+        outline: none;
+        border: 1px solid #ddd; }
+    .xu_index .xu_detail .d_right .btn a {
+      display: inline-block;
+      width: 210px;
+      height: 55px;
+      -webkit-border-radius: 5px;
+      border-radius: 5px;
+      background: #27B3FF;
+      text-align: center;
+      line-height: 55px;
+      margin-top: 50px;
+      color: #fff; }
+      .xu_index .xu_detail .d_right .btn a:last-child {
+        color: #27B3FF;
+        background: #fff;
+        border: 1px solid #27B3FF;
+        margin-left: 25px; }

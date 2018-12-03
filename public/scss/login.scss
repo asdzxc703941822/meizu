@@ -1,0 +1,42 @@
+.xu_login{
+  position:relative;
+  .l_head{
+    width:115px;
+    height:30px;
+    margin:20px 120px;
+    background:url('../img/login/base.png') 0 0;
+  }
+  .l_bg{
+    height: 750px;
+    background:url('../img/login/banner.jpg') no-repeat;
+  }
+  .l_box{
+    position:absolute;
+    top:175px;
+    right:230px;
+    width:360px;
+    height:350px;
+    background:#fff;
+    form{
+      text-align:center;
+      display: inline-block;
+      position: absolute;
+      left: 50%;
+      top:50%;
+      // -webkit-transform:translateY(-50%);
+      // transform:translateY(-50%);
+      -webkit-transform:translate(-50% , -50%);
+      transform:translate(-50% , -50%);
+      input{
+        width:260px;
+        height:40px;
+        outline:none;
+        padding: 0px 10px;
+        margin-bottom:20px;
+      }
+      input[type=submit]{
+        width: 280px;
+      }
+    }
+  }
+}
